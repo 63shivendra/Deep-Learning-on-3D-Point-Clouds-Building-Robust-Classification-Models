@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+open3d
+plyfile
+tqdm
+scikit-learn
+wandb
